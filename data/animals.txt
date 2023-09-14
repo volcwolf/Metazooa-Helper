@@ -1,0 +1,219 @@
+aardvark
+alligator
+alpaca
+anaconda
+anemone
+anteater
+antelope
+arctic fox
+armadillo
+atlas moth
+axolotl
+baboon
+badger
+bald eagle
+banana slug
+barn owl
+barracuda
+bass
+beaver
+beluga whale
+bison
+black bear
+black mamba
+black widow
+blackbird
+blue jay
+blue-ringed octopus
+bobcat
+bonobo
+box turtle
+brain coral
+brown bear
+brown crab
+buffalo
+bullfrog
+bumble bee
+camel
+canary
+capuchin
+capybara
+caribou
+carp
+carpenter ant
+cat
+catfish
+cattle
+chameleon
+cheetah
+chicken
+chimpanzee
+clownfish
+cockatiel
+cockatoo
+cockroach
+cod
+condor
+coyote
+cricket
+crocodile
+cuttlefish
+deer
+dolphin
+donkey
+dove
+dragonfly
+duck
+dung beetle
+earwig
+echidna
+electric eel
+elephant
+elk
+emperor penguin
+emu
+falcon
+finch
+fire ant
+firefly
+flamingo
+fruit bat
+fruit fly
+gazelle
+gecko
+gerbil
+giant panda
+giant squid
+gibbon
+gila monster
+giraffe
+goat
+goldfish
+goose
+gorilla
+grasshopper
+great white shark
+grey parrot
+groundhog
+hammerhead shark
+hamster
+hedgehog
+hermit crab
+hippopotamus
+honey bee
+hornet
+horse
+house fly
+human
+humpback whale
+huntsman spider
+hyena
+iguana
+jackal
+jaguar
+jellyfish
+kangaroo
+kiwi
+koala
+komodo dragon
+krill
+ladybug
+lemur
+leopard
+lion
+llama
+lobster
+locust
+lynx
+macaque
+macaw
+magpie
+man o war
+manatee
+mandrill
+manta ray
+meerkat
+mink
+mockingbird
+mole
+monarch butterfly
+mongoose
+mosquito
+mouse
+naked mole-rat
+narwhal
+nightingale
+ocelot
+orangutan
+orca
+ostrich
+oyster
+pangolin
+parakeet
+pheasant
+pig
+pigeon
+piranha
+platypus
+poison frog
+polar bear
+porcupine
+praying mantis
+pufferfish
+puffin
+puma
+python
+rabbit
+raccoon
+rat
+raven
+red fox
+red panda
+rhinoceros
+river otter
+robin
+rockhopper penguin
+salamander
+salmon
+scorpion
+sea clam
+sea lion
+sea otter
+sea snake
+sea turtle
+sea urchin
+seahorse
+seal
+sheep
+shrimp
+silkworm
+skunk
+snail
+snow leopard
+snowy owl
+sparrow
+sperm whale
+starfish
+stick bug
+sting ray
+swan
+swordfish
+tarantula
+tasmanian devil
+termite
+tiger
+toad
+toucan
+trout
+turkey
+two-toed sloth
+vampire bat
+vulture
+walrus
+wasp
+weasel
+whale shark
+wolf
+wolverine
+wombat
+zebra
